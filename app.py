@@ -19,9 +19,9 @@ compact_css = """
 
 /* Hero section */
 .hero {
-    min-height: 50vh !important;
-    padding-top: 5px !important;
-    padding-bottom: 15px !important;
+    min-height: 35vh !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
 }
 
 /* All main sections */
